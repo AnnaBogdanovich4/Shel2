@@ -1,1 +1,1 @@
-# https://github.com/AnnaBogdanovich4/She2/deployments/activity_log?environment=github-pages
+#https://annabogdanovich4.github.io/Shel2/index1.html
