@@ -1,1 +1,1 @@
-# https://github.com/AnnaBogdanovich4/Shel2/blob/gh-pages/index1.html
+# https://github.io/AnnaBogdanovich4/Shel2/index1.html/
